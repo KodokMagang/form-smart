@@ -1,0 +1,1 @@
+<img src="https://karirlab-prod-bucket.s3.ap-southeast-1.amazonaws.com/files/privates/eOKUYBxRLTNuKfC8t7Y0WfkcD1E1L2kMi5linl1V.png" alt="Logo Sinarmas" width="150px">
